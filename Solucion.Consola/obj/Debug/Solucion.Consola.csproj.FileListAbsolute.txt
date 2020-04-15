@@ -1,0 +1,23 @@
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\bin\Debug\Solucion.Consola.exe.config
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\bin\Debug\Solucion.Consola.exe
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\bin\Debug\Solucion.Consola.pdb
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\obj\Debug\Solucion.Consola.csprojAssemblyReference.cache
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\obj\Debug\Solucion.Consola.exe
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\obj\Debug\Solucion.Consola.pdb
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\bin\Debug\Solucion.LibreriaNegocio.dll
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\bin\Debug\Solucion.LibreriaNegocio.pdb
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\obj\Debug\Solucion.Consola.csproj.CopyComplete
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\bin\Debug\Solucion.LibreriaConsola.dll
+C:\Users\p041218\source\Facu\Solucion.Consola\Solucion.Consola\bin\Debug\Solucion.LibreriaConsola.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\bin\Debug\Solucion.Consola.exe.config
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\bin\Debug\Solucion.Consola.exe
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\bin\Debug\Solucion.Consola.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\bin\Debug\Solucion.LibreriaConsola.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\bin\Debug\Solucion.LibreriaNegocio.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\bin\Debug\Solucion.LibreriaConsola.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\bin\Debug\Solucion.LibreriaNegocio.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\obj\Debug\Solucion.Consola.csprojAssemblyReference.cache
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\obj\Debug\Solucion.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\obj\Debug\Solucion.Consola.csproj.CopyComplete
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\obj\Debug\Solucion.Consola.exe
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\EjercicioIntegrador1-master\Solucion.Consola\obj\Debug\Solucion.Consola.pdb

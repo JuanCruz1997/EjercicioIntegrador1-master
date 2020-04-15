@@ -1,0 +1,52 @@
+id,Nombre,Biblioteca de figuras,ID de página,Contenido por,Grupo,Origen de línea,Destino de la línea,Flecha de origen,Flecha de destino,Área de texto 1,Área de texto 2,Área de texto 3
+1,Página,,,,,,,,,Diagrama de clases UML,,
+2,Clase,UML,1,,,,,,,<<abstract>>               Empleado,"- _legajo : int
+- _antiguedad : DateTime
+- _ultimoSalario : Salario",+ Equals(Object) : bool
+3,Clase,UML,1,,,,,,,Alumno,- _codigo : int,+ Equals(Object) : bool
+4,Clase,UML,1,,,,,,,Facultad,"- _empleados : List<Empleado>
+- _alumnos : List<Alumno>
+- _nombre : string 
+","+ AgregarAlumno(Alumno) : void
++ AgregarEmpleado(Empleado) : void"
+5,Texto,Estándar,1,,31,,,,,Diagrama de clases UML,,
+6,Texto,Estándar,1,,31,,,,,"Heiler, Silvio  |  April 9, 2020",,
+7,Contenedor de rectángulo redondeado,Figuras de diagramas de flujo,1,,32,,,,,,,
+8,Texto,Estándar,1,7,32,,,,,"Tutoriales de diagramas de clases UML
+(Shift + ⌘ o Ctrl, luego haz click)
+
+
+",,
+9,Texto,Estándar,1,7,32,,,,,Descripción,,
+10,Texto,Estándar,1,7,32,,,,,"Los diagramas de clases UML trazan la estructura de un sistema específico al modelar sus clases, atributos, operaciones y relaciones entre objetos. 
+
+Para personalizar esta plantilla, haz clic en cualquier figura y escribe la información que te gustaría incluir. Agrega las figuras de clases y organízalas según creas necesario. Luego, actualiza la cardinalidad. También puedes generar automáticamente diagramas de clases de tus repositorios de Bitbucket.",,
+11,Botón,Prototipos de interfaz de usuario,1,7,32,,,,,Mirar un tutorial sobre cómo generar automáticamente un diagrama de clases UML,,
+12,Botón,Prototipos de interfaz de usuario,1,7,32,,,,,Lee sobre los diagramas de clases UML,,
+13,Botón,Prototipos de interfaz de usuario,1,7,32,,,,,Mirar un tutorial de diagrama de clases UML,,
+14,Botón,Prototipos de interfaz de usuario,1,7,32,,,,,Mirar los tutoriales básicos de Lucidchart,,
+15,Imagen de usuario,Imágenes de usuario,1,7,32,,,,,,,
+16,Clase,UML,1,,,,,,,"<<abstract>>
+Persona","- _nombre : string
+- _apellido: string
+- _fechaNac: DateTime",
+17,Clase,UML,1,,,,,,,Docente,,
+18,Clase,UML,1,,,,,,,Directivo,,
+19,Clase,UML,1,,,,,,,Bedel,,
+20,Clase,UML,1,,,,,,,Salario,"- _bruto : double
+- _descuentos : double
+- _fecha : DateTime
+- _codigoTransferencia : string
+",+ GetSalarioNeto() : double
+21,Línea,,1,,,3,4,Aggregation,None,parte de,0..*,1..*
+22,Línea,,1,,,16,3,Generalization,None,,,
+23,Línea,,1,,31,5,5,None,None,,,
+24,Línea,,1,,,2,4,Aggregation,None,parte de,0..*,1..*
+25,Línea,,1,,,16,2,Generalization,None,,,
+26,Línea,,1,,,2,17,Generalization,None,,,
+27,Línea,,1,,,2,18,Generalization,None,,,
+28,Línea,,1,,,2,19,Generalization,None,,,
+29,Línea,,1,,,20,2,Open Arrow,None,0..1,0..1,
+30,Línea,,1,,,2,,None,Arrow,,,
+31,Grupo 1,,1,,,,,,,,,
+32,Grupo 2,,1,,,,,,,,,
