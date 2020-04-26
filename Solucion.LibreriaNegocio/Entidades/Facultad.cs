@@ -96,6 +96,7 @@ namespace Solucion.LibreriaNegocio
                     if (e.Legajo == legajo)
                     {
                         Empleados.Remove(e);
+                        break;
                     }
                 }
             }
